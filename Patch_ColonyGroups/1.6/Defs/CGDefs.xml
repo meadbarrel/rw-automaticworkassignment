@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <Def Class="Lomzie.AutomaticWorkAssignment.Defs.PawnSettingCategoryDef">
+    <defName>ColonyGroups</defName>
+    <label>Colony Groups</label>
+  </Def>
+
+  <Def Class="Lomzie.AutomaticWorkAssignment.Defs.PawnPostProcessorDef">
+    <defName>Lomzie_AddToGroupPostProcessor</defName>
+    <settingClass>Lomzie.AutomaticWorkAssignment.Patches.ColonyGroups.AddToGroupPostProcessor</settingClass>
+    <label>add to group</label>
+    <description>Adds the given colony group.</description>
+    <category>ColonyGroups</category>
+  </Def>
+
+  <Def Class="Lomzie.AutomaticWorkAssignment.Defs.PawnPostProcessorDef">
+    <defName>Lomzie_RemoveFromGroupPostProcessor</defName>
+    <settingClass>Lomzie.AutomaticWorkAssignment.Patches.ColonyGroups.RemoveFromGroupPostProcessor</settingClass>
+    <label>remove from group</label>
+    <description>Remove from the given colony group.</description>
+    <category>ColonyGroups</category>
+  </Def>
+
+  <Def Class="Lomzie.AutomaticWorkAssignment.Defs.PawnPostProcessorDef">
+    <defName>Lomzie_RemoveFromAllGroupsPostProcessor</defName>
+    <settingClass>Lomzie.AutomaticWorkAssignment.Patches.ColonyGroups.RemoveFromAllGroupsPostProcessor</settingClass>
+    <label>remove from all groups</label>
+    <description>Remove from all colony groups.</description>
+    <category>ColonyGroups</category>
+  </Def>
+</Defs>
+  
