@@ -18,8 +18,8 @@
     <Reference Include="Assembly-CSharp">
       <HintPath>$(SteamAppsPath)\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="RR_PawnBadge-RW1.5">
-      <HintPath>$(SteamAppsPath)\workshop\content\294100\2526040241\1.6\Assemblies\RR_PawnBadge-RW1.5.dll</HintPath>
+    <Reference Include="RR_PawnBadge-RW1.6">
+      <HintPath>$(SteamAppsPath)\workshop\content\294100\2526040241\1.6\Assemblies\RR_PawnBadge-RW1.6.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>$(SteamAppsPath)\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.CoreModule.dll</HintPath>

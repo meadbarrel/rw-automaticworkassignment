@@ -19,7 +19,7 @@
       <HintPath>$(SteamAppsPath)\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="CombatExtended">
-      <HintPath>$(SteamAppsPath)\workshop\content\294100\2890901044\Assemblies\CombatExtended.dll</HintPath>
+      <HintPath>$(SteamAppsPath)\workshop\content\294100\3495749827\Assemblies\CombatExtended.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>$(SteamAppsPath)\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
